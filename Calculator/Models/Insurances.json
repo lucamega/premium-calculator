@@ -1,0 +1,146 @@
+[
+    {
+        "carrier": "Qwerty",
+        "plans": [ "A" ],
+        "state": "NY",
+        "birthMonth": "September",
+        "minAge": 21,
+        "maxAge": 45,
+        "premium": 150
+    },
+    {
+        "carrier": "Qwerty",
+        "plans": [ "B" ],
+        "state": "NY",
+        "birthMonth": "January",
+        "minAge": 46,
+        "maxAge": 65,
+        "premium": 200.5
+    },
+    {
+        "carrier": "Qwerty",
+        "plans": [ "A", "C" ],
+        "state": "NY",
+        "birthMonth": "*",
+        "minAge": 18,
+        "maxAge": 65,
+        "premium": 120.99
+    },
+    {
+        "carrier": "Qwerty",
+        "plans": [ "A" ],
+        "state": "AL",
+        "birthMonth": "November",
+        "minAge": 18,
+        "maxAge": 65,
+        "premium": 85.5
+    },
+    {
+        "carrier": "Qwerty",
+        "plans": [ "C" ],
+        "state": "AL",
+        "birthMonth": "*",
+        "minAge": 18,
+        "maxAge": 65,
+        "premium": 100
+    },
+    {
+        "carrier": "Qwerty",
+        "plans": [ "A" ],
+        "state": "AK",
+        "birthMonth": "December",
+        "minAge": 65,
+        "maxAge": 120,
+        "premium": 175.2
+    },
+    {
+        "carrier": "Qwerty",
+        "plans": [ "A" ],
+        "state": "AK",
+        "birthMonth": "December",
+        "minAge": 18,
+        "maxAge": 64,
+        "premium": 125.16
+    },
+    {
+        "carrier": "Qwerty",
+        "plans": [ "B" ],
+        "state": "AK",
+        "birthMonth": "*",
+        "minAge": 18,
+        "maxAge": 65,
+        "premium": 100.8
+    },
+    {
+        "carrier": "Qwerty",
+        "plans": [ "A", "C" ],
+        "state": "*",
+        "birthMonth": "*",
+        "minAge": 18,
+        "maxAge": 65,
+        "premium": 90
+    },
+    {
+        "carrier": "Asdf",
+        "plans": [ "A" ],
+        "state": "NY",
+        "birthMonth": "October",
+        "minAge": 21,
+        "maxAge": 65,
+        "premium": 150
+    },
+    {
+        "carrier": "Asdf",
+        "plans": [ "B" ],
+        "state": "NY",
+        "birthMonth": "January",
+        "minAge": 46,
+        "maxAge": 65,
+        "premium": 184.5
+    },
+    {
+        "carrier": "Asdf",
+        "plans": [ "A" ],
+        "state": "NY",
+        "birthMonth": "*",
+        "minAge": 18,
+        "maxAge": 65,
+        "premium": 129.95
+    },
+    {
+        "carrier": "Asdf",
+        "plans": [ "A" ],
+        "state": "AL",
+        "birthMonth": "November",
+        "minAge": 18,
+        "maxAge": 65,
+        "premium": 84.5
+    },
+    {
+        "carrier": "Asdf",
+        "plans": [ "B" ],
+        "state": "WY",
+        "birthMonth": "*",
+        "minAge": 18,
+        "maxAge": 65,
+        "premium": 100
+    },
+    {
+        "carrier": "Asdf",
+        "plans": [ "B", "C" ],
+        "state": "AK",
+        "birthMonth": "*",
+        "minAge": 18,
+        "maxAge": 65,
+        "premium": 100.8
+    },
+    {
+        "carrier": "Asdf",
+        "plans": [ "A", "C" ],
+        "state": "*",
+        "birthMonth": "*",
+        "minAge": 18,
+        "maxAge": 65,
+        "premium": 89.99
+    }
+]
